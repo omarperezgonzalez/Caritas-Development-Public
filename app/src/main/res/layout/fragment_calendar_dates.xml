@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".donorsUtils.CalendarDatesFragment">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text=" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis nisi ipsum. Sed convallis pretium libero, ac maximus dui condimentum at. In porta auctor rhoncus. Vestibulum ultrices ex ante, et euismod dui tristique vitae. Fusce in arcu sollicitudin, accumsan ligula in, rutrum odio. Maecenas ac accumsan leo. Phasellus lacinia orci mauris, id finibus justo laoreet sit amet. Nulla interdum lectus vel odio eleifend, id vulputate erat viverra. Suspendisse commodo feugiat vulputate. Suspendisse neque turpis, faucibus sit amet odio a, semper vestibulum nisl. Quisque ipsum dui, egestas sed purus vel, porttitor vestibulum odio. Phasellus non erat enim.  Sed vitae enim aliquet nunc placerat tincidunt et a massa. Cras elementum dolor in erat ornare malesuada. Sed eget mauris nec leo finibus tempus sit amet lacinia est. Nulla tellus massa, convallis vitae nibh et, ultrices dictum massa. Etiam quis justo non leo semper tristique eu id odio. Proin et blandit ex. Curabitur rutrum ullamcorper risus. Cras id porttitor metus. Mauris purus odio, sagittis dapibus risus nec, fermentum convallis augue. Aenean vehicula nulla non sollicitudin pellentesque. Ut tempor, sapien quis consectetur mattis, nisl felis suscipit urna, et consectetur enim odio aliquam nisi. Suspendisse sagittis nisl bibendum volutpat vulputate. Quisque et velit odio. Vivamus accumsan id felis sit amet varius. In commodo, magna quis consequat scelerisque, tortor est sodales tellus, in malesuada neque orci quis massa. Pellentesque finibus ornare tellus, ut ultrices ipsum aliquam in.  Sed interdum gravida nunc at condimentum. Donec mollis libero sit amet diam lacinia, eget auctor lectus sollicitudin. In pharetra diam risus, ac blandit leo eleifend et. Nam pulvinar at risus non egestas. Phasellus tristique quam congue sapien tempor mattis. Vestibulum mauris dolor, aliquet scelerisque diam vitae, blandit ullamcorper nisi. In vel urna tempor, varius lorem a, accumsan mi. Mauris lacinia diam dolor, vel aliquam justo eleifend non. Ut vel eros urna. Vivamus pulvinar gravida purus ut tempor. Donec aliquam semper massa quis egestas. Cras eleifend viverra sapien nec ullamcorper."
+        android:textAlignment="center"
+        android:textSize="20sp" />
+</LinearLayout>

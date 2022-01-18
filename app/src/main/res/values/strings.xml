@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prototipo Caritas - Development</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_txt">Title</string>
+    <string name="publication_date_txt">Publication Date</string>
+</resources>
